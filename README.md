@@ -35,7 +35,7 @@
 
 <a href="https://github.com/qnpDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qnpDev&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qnpDev&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qnpDev&layout=compact" />
 </a>
 
 <br/>
