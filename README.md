@@ -1,3 +1,4 @@
+<h1 align="center">qnp</h1>
 
 <h2> Hey there! I'm Quí (qnp).</h2>
 
