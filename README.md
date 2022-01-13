@@ -59,6 +59,6 @@
 <p align="center">
 <a href="https://www.fb.com/100029121395944"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-NPQuii-blue?style=flat-square&logo=facebook"></a>
 <a href="mailto:qnpdev0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-qnpdev@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<img alt="Discord" src="https://img.shields.io/badge/Discord-qnp0890-blue?style=flat-square&logo=discord">
+<img alt="Discord" src="https://img.shields.io/badge/Discord-qnp0980-blue?style=flat-square&logo=discord">
 
 </p>
